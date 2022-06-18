@@ -1,0 +1,14 @@
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\bin\Debug\net6.0\HBNext.Nextgen.BusinessManager.deps.json
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\bin\Debug\net6.0\HBNext.Nextgen.BusinessManager.runtimeconfig.json
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\bin\Debug\net6.0\HBNext.Nextgen.BusinessManager.dll
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\bin\Debug\net6.0\HBNext.Nextgen.BusinessManager.pdb
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\HBNext.Nextgen.BusinessManager.csproj.AssemblyReference.cache
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\HBNext.Nextgen.BusinessManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\HBNext.Nextgen.BusinessManager.AssemblyInfoInputs.cache
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\HBNext.Nextgen.BusinessManager.AssemblyInfo.cs
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\HBNext.Nextgen.BusinessManager.csproj.CoreCompileInputs.cache
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\HBNext.Nextgen.BusinessManager.dll
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\refint\HBNext.Nextgen.BusinessManager.dll
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\HBNext.Nextgen.BusinessManager.pdb
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\HBNext.Nextgen.BusinessManager.genruntimeconfig.cache
+C:\Git\HBNext\HBNext.NextgenApp.WebAPI\HBNext.Nextgen.Business\obj\Debug\net6.0\ref\HBNext.Nextgen.BusinessManager.dll

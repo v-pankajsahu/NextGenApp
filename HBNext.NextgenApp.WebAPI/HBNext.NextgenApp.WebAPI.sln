@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HBNext.NextgenApp.WebAPI", "HBNext.NextgenApp.WebAPI\HBNext.NextgenApp.WebAPI.csproj", "{FEF882EA-8D63-4BAF-A241-039F0C1EFAFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HBNext.Nextgen.BusinessManager", "HBNext.Nextgen.Business\HBNext.Nextgen.BusinessManager.csproj", "{14CC8FBA-31D4-4512-A8D6-66E8229F41C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF882EA-8D63-4BAF-A241-039F0C1EFAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF882EA-8D63-4BAF-A241-039F0C1EFAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF882EA-8D63-4BAF-A241-039F0C1EFAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF882EA-8D63-4BAF-A241-039F0C1EFAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CC8FBA-31D4-4512-A8D6-66E8229F41C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CC8FBA-31D4-4512-A8D6-66E8229F41C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CC8FBA-31D4-4512-A8D6-66E8229F41C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CC8FBA-31D4-4512-A8D6-66E8229F41C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9387E54-2D94-4F99-A145-855304FF36EA}
+	EndGlobalSection
+EndGlobal

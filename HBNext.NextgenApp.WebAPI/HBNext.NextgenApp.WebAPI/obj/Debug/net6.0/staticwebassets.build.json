@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8dzUKCd4uwnB/WiWDyKETdY6AKhL4x6FKxCVkrlrKDY=",
+  "Source": "HBNext.NextgenApp.WebAPI",
+  "BasePath": "_content/HBNext.NextgenApp.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
