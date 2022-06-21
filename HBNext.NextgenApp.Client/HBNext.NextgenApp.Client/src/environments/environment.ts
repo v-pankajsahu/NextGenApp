@@ -3,9 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+  cognito: {
+    userPoolId: 'us-east-1_9eLww9wzb',
+    userPoolWebClientId: '1dohtkfqi00ftlmp4uv6v7p5bc',
+  },
   production: false
 };
-
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
